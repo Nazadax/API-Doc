@@ -1,4 +1,4 @@
-#  Exchange官方API文档
+#  Exchange官方API文档 https://openapi.nazadax.com/open/api/get_allticker
 
 #### Exchange交易所开发文档([English Docs](https://github.com/Nazadax/API-Doc/blob/master/us_en/api_doc_en.md))
 - [介绍](#Introduction)
