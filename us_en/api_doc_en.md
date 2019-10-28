@@ -1,4 +1,4 @@
-#  Exchange-official-API-docs https://openapi.nazadax.com/
+#  Exchange-official-API-docs https://openapi.nazadax.com/open/api/get_allticker
 
 #### Official Documentation for the Exchange APIs and Streams([简体中文版文档](https://github.com/Nazadax/API-Doc/blob/master/zh_cn/api_doc_cn.md))
 - [Introduction](#Introduction)
